@@ -16,7 +16,7 @@ This project is a proof of concept (POC) application built in Unity to test the 
 
 ## Demo
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR4aW54M2hjYW80bmd3MjRhbjNzcG0xc2poMGtwa2prdnR2bmlvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMvmhTI94KJLftfwsh/source.gif" />
+![demo](https://github.com/aravindmathradan/atrium/blob/main/demo/Atrium%20cut.gif)
 
 ## Disclaimer
 
